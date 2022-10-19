@@ -1,8 +1,6 @@
 To install vault 
 
-```
-apt update && apt install --yes gpg
-```{{exec}}
+```apt update && apt install --yes gpg```{{exec}}
 
 Then
 
@@ -14,6 +12,4 @@ echo "deb [signed-by=/usr/share/keyrings/hashicorp-archive-keyring.gpg] https://
 
 Then install the Vault package
 
-```
-apt update && apt install vault
-```{{exec}}
+```apt update && apt install vault```{{exec}}
