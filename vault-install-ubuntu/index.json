@@ -1,5 +1,13 @@
 {
   "title": "Install Hashicorp Vault",
+   "details": {
+    "steps": [
+      {
+        "title": "Let's install Vault from package manager repository",
+        "text": "step1.md"
+      }
+    ]
+  },
   "backend": {
     "imageid": "ubuntu"
   }
