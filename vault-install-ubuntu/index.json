@@ -1,0 +1,6 @@
+{
+  "title": "Install Hashicorp Vault",
+  "backend": {
+    "imageid": "hashicorp-hashistack"
+  }
+}
