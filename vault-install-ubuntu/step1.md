@@ -16,3 +16,10 @@ echo "deb [signed-by=/usr/share/keyrings/hashicorp-archive-keyring.gpg] https://
 ```plain
 apt update && apt install vault
 ```{{exec}}
+
+
+To check the installation run the command
+
+```plain
+vault --help
+```
