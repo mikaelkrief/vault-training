@@ -5,6 +5,10 @@
       {
         "title": "Let's install Vault from package manager repository",
         "text": "step1.md"
+      },
+      {
+        "title": "Install the Vault server",
+        "text": "step2.md"
       }
     ]
   },
