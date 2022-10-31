@@ -1,6 +1,8 @@
-To install the vault server
+# To install the vault server
 
-For developpement mode
+## For developpement mode
+
+Run the server
 
 ```plain
 vault server -dev
