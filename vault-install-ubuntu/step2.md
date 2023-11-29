@@ -23,4 +23,4 @@ Check the stutus of the Vault with the command :
 vault status
 ```{{exec}}
 
-[click here]({{TRAFFIC_HOST1_8200}})
+[Open UI]({{TRAFFIC_HOST1_8200}})
