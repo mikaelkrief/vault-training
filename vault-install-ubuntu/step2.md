@@ -5,7 +5,7 @@
 Run the server
 
 ```plain
-vault server -dev
+vault server -dev -dev-listen-address="0.0.0.0:8200"
 ```{{exec}}
 
 
@@ -14,7 +14,7 @@ Inside another tab
 export the env var
 
 ```plain
-export VAULT_ADDR='http://127.0.0.1:8200'
+export VAULT_ADDR='http://0.0.0.0:8200'
 ```{{exec}}
 
 Check the stutus of the Vault with the command :
