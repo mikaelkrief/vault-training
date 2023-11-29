@@ -1,4 +1,4 @@
-# To install the vault server
+# To start the vault server
 
 ## For developpement mode
 
@@ -7,6 +7,13 @@ Run the server
 ```plain
 vault server -dev -dev-listen-address="0.0.0.0:8200"
 ```{{exec}}
+
+
+## For production mode
+
+- unseal
+
+
 
 
 Inside another tab
