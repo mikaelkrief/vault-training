@@ -22,3 +22,5 @@ Check the stutus of the Vault with the command :
 ```plain
 vault status
 ```{{exec}}
+
+[click here]({{TRAFFIC_HOST1_8200}})
